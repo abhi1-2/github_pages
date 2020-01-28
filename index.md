@@ -13,7 +13,7 @@
 3.  <a href="#failures">Where the current OCR APIs fail</a>
 4.  <a href="#ocr_need"> Should I even consider using OCR then?</a>
 5.  <a href="#good_ocr"> What defines a good OCR product?</a>
-5.  <a href="#docparser"> OCR & Docparser </a>
+6.  <a href="#docparser"> OCR & Docparser </a>
 
 
 
@@ -66,14 +66,14 @@ Think about the following use cases -
 
 5. <span style="text-decoration:underline;">Invoices</span> - automating reading bills, invoices and receipts, extracting products, prices, date-time data, company/service name for retail and logistics industry.
 
-## <a name="good_ocr" style="text-decoration:underline;">What defines a good OCR product?</a>
+## 5. <a name="good_ocr" style="text-decoration:underline;">What defines a good OCR product?</a>
 
  1. How it deals with the images coming in 
  2. How it performs in real-world problems
  3. How it uses the machine-readable text
 
 
-## <a name="docparser" style="text-decoration:underline;">Docparser & OCR</a>
+## 6. <a name="docparser" style="text-decoration:underline;">Docparser & OCR</a>
 Docparser was built to solve these kind of problems. We have been able to productize a pipeline for OCR by working with it as not just character recognition but getting structured usable information.
 
 
@@ -86,7 +86,7 @@ Docparser was built to solve these kind of problems. We have been able to produc
 3. Increases overall productivity.
 4. Compatibility with local languages. 
 
-## Docparser Pipline
+## 7. Docparser Pipline
 
 <center><img src="http://drive.google.com/uc?export=view&id=1Qds2KUbNeOGHiM_AHBobnsjuj-d7IHN0" width=80% height="80%"></center>
 
