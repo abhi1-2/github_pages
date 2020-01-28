@@ -86,7 +86,8 @@ Docparser was built to solve these kind of problems. We have been able to produc
 3. Increases overall productivity.
 4. Compatibility with local languages. 
 
-Docparser Pipline
+## Docparser Pipline
 
-<img src="http://drive.google.com/uc?export=view&id=1Qds2KUbNeOGHiM_AHBobnsjuj-d7IHN0">
+<center><img src="http://drive.google.com/uc?export=view&id=1Qds2KUbNeOGHiM_AHBobnsjuj-d7IHN0" width=80% height="80%"></center>
+
 
