@@ -1,8 +1,8 @@
-# <center><span style="text-decoration:underline;">Docparser - OCR & Information Extraction 
+# <center><span style="text-decoration:underline;">Docparser - OCR & Information Extraction </span></center>
  <a style="position:relative; right: -80%;" href="mailto:avishek.sarkar@box8.in">by <b>Avishek Sarkar </b></a>
 
-</span>
-</center>
+
+
 
 ## **<span style="text-decoration:underline;">CONTENT</span>**
 
