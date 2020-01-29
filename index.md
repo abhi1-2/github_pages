@@ -21,30 +21,29 @@
 
 Simply defined, OCR is a set of computer vision tasks that convert scanned documents and images into machine readable text. It takes images of documents, invoices and receipts, finds text in it and converts it into a format that machines can better process. You want to read information off of ID cards or read numbers on a bank cheque, OCR is what will drive your software.
 
- You might need to read the different characters from a cheque, extract the account number, amount, currency, date etc. But how do you know which character corresponds to which field? 
+ You might need to read the different characters from a cheque, extract the account number, amount, currency, date etc. <b>But how do you know which character corresponds to which field?</b>
+
 
    <center><img src = "https://nanonets.com/blog/content/images/2019/08/clearcheck21_micr_reader-568141.jpg " style="width:70%"></center>
    
 
 ## 2. **<a name="landscape" style="text-decoration:underline;"> The OCR landscape</a>**
 
-OCR is perceived to be a solved problem by many, but in reality, the products available to us as open-source tools or provided by technological giants are far from perfect - too rigid, often inaccurate and fail in the real world.
+The APIs provided by many are limited to solving a very limited set of use cases and are averse to customizations. 
+
 
 ![alt_text](https://nanonets.com/blog/content/images/2019/08/OCR_illustration-02--3-.jpg "image_tooltip")
 
-The APIs provided by many are limited to solving a very limited set of use cases and are averse to customizations. More often than not, a business planning to use OCR technology needs an in-house team to build on the OCR API available to them to actually apply it to their use case. The OCR technology available in the market today is mostly a partial solution to the problem.
+More often than not, a business planning to use OCR technology needs an in-house team to build on the OCR API available to them to actually apply it to their use case. The OCR technology available in the market today is mostly a partial solution to the problem.
 
 
 
-## 3. **<a name="failures" style="text-decoration:underline;">Where the current OCR APIs fail</a>**
+## 3. **<a name="failures" style="text-decoration:underline;">Limitations of current OCR APIs </a>**
 1. Require a considerable amount of post-processing
-
 2. Work well only in specific constraints 
 3. Tilted text in images
 4. Handwritten text, cursive fonts, font sizes
 5. Noisy/blurry images
-
-
 
 
 
@@ -74,7 +73,7 @@ Think about the following use cases -
 
 
 ## 6. <a name="docparser" style="text-decoration:underline;">Docparser & OCR</a>
-Docparser was built to solve these kind of problems. We have been able to productize a pipeline for OCR by working with it as not just character recognition but getting structured usable information.
+Docparser was built to solve these kind of problems. We have been able to productize a pipeline for OCR by working with it as not just for character recognition but getting structured usable information.
 
 
  <center><img src="https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif" height=50% width=70%></center>
