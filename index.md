@@ -102,7 +102,7 @@ Document Scanner was built to solve the above mentioned problems. We have been a
 1. ### <div style="text-decoration:underline">Employee Onboarding Using Aadhar</div> 
     Employee Creation requires filling of multiple fields and is quite time taking.
 	It is also expected that the user input is accurate as fields like Document 
-No (Aadhar No.) need to be unique. Failure to do so means refilling of the fo
+No (Aadhar No.) need to be unique. Failure to do so means refilling of the form
 which further increases the time taken to create an employee. Using 
 Document Scanner with Aadhaar helps speed up the process and helps in eliminating error due to user input . 
 <center><img src="http://drive.google.com/uc?export=view&id=1AO1Dw44v4hMBtu1-N74srcS9ecWjRFHi
