@@ -1,4 +1,4 @@
-# <center><span style="text-decoration:underline;">Docparser - OCR & Information Extraction </span></center>
+# <center><span style="text-decoration:underline;">Document Scanner- OCR & Information Extraction </span></center>
  <a style="position:relative; right: -80%;" href="mailto:avishek.sarkar@box8.in">by <b>Avishek Sarkar </b></a>
 
 
@@ -13,9 +13,9 @@
 3.  <a href="#failures">Where the current OCR APIs fail</a>
 4.  <a href="#ocr_need"> Should I even consider using OCR then?</a>
 5.  <a href="#good_ocr"> What defines a good OCR product?</a>
-6.  <a href="#docparser"> OCR & Docparser </a>
-
-
+6.  <a href="#docparser"> OCR & Document Scanner</a>
+7. <a href="#pipeline"> Document Scanner Information Extraction Pipeline</a>
+8. <a href="#use_cases">How we use Document Scanner at Box8</a>
 
 ## 1. <a name="intro" style="text-decoration:underline;"> Introduction</a>
 
@@ -72,21 +72,41 @@ Think about the following use cases -
  3. How it uses the machine-readable text
 
 
-## 6. <a name="docparser" style="text-decoration:underline;">Docparser & OCR</a>
-Docparser was built to solve these kind of problems. We have been able to productize a pipeline for OCR by working with it as not just for character recognition but getting structured usable information.
+## 6. <a name="docparser" style="text-decoration:underline;">Document Scanner & OCR</a>
+Dcoument Scanner is a data capture solution built to retrieve data from image documents. It takes an image and extracts the data required in near real-time.
+
+Document Scanner was built to solve the above mentioned problems. We have been able to productize a pipeline for OCR by working with it as not just for character recognition but getting structured usable information.
 
 
  <center><img src="https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif" height=50% width=70%></center>
 
 
- **Benefits of Docparser**:
-1. Docparser saves precious time by providing structured usable information which can be used for autofilling forms etc.
-2. Prevents error due to User entry.
-3. Increases overall productivity.
-4. Compatibility with local languages. 
 
-## 7. Docparser Pipline
+## 7.<a name="pipeline" style="text-decoration:underline;"> Document Scanner Pipline</a>
+
+ To extract information from an image Document Scanner needs a set of rules that tell it what data points to look for and where to look for in the image document.
 
 <center><img src="http://drive.google.com/uc?export=view&id=1Qds2KUbNeOGHiM_AHBobnsjuj-d7IHN0" width=80% height="80%"></center>
 
 
+ ## Benefits of Document Sanner :
+1. Document Scanner saves precious time by providing structured usable information which can be used for autofilling forms etc.
+2. Prevents error due to User entry.
+3. Increases overall productivity.
+4. Compatibility with local languages. 
+
+
+## <a name="use_cases" style="text-decoration:underline;">How we use Document Scanner at Box8</a>
+
+1. ### Employee Onboarding Using Aadhar -
+    Employee Creation requires filling of multiple fields and is quite time taking.
+	It is also expected that the user input is accurate as fields like Document 
+No (Aadhar No.) need to be unique. Failure to do so means refilling of the fo
+which further increases the time taken to create an employee. Using 
+Document Scanner with Aadhaar helps speed up the process and helps in eliminating error due to user input . 
+
+
+
+2. ### Digitzation of Vendor Invoices
+
+    We use Document Scanner to extract data from a vendor invoice , like GST info, invoice number ,information of items purchased , the total amount to be paid etc. Further it also helps us to identify if any of the above information is missing or incorrect than the data entered manually and automatically raise disputes.
