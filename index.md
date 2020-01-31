@@ -77,7 +77,7 @@ Dcoument Scanner is a data capture solution built to retrieve data from image do
 
 Document Scanner was built to solve the above mentioned problems. We have been able to productize a pipeline for OCR by working with it as not just for character recognition but getting structured usable information.
 
-<center><img src="https://ph-files.imgix.net/a8b55670-2332-43fa-9a36-7e6619308363?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=364.8253968253968&h=221&fit=max"></img></center>
+<center><img src="https://ph-files.imgix.net/a8b55670-2332-43fa-9a36-7e6619308363?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=627.3015873015872&h=380&fit=max&dpr=2"></img></center>
  
 
 
