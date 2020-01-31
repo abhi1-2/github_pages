@@ -1,3 +1,4 @@
+
 # <center><span style="text-decoration:underline;">Document Scanner- OCR & Information Extraction </span></center>
  <a style="position:relative; right: -80%;" href="mailto:avishek.sarkar@box8.in">by <b>Avishek Sarkar </b></a>
 
@@ -10,12 +11,13 @@
 
 1.  <a href='#intro'>Introduction</a>
 2.  <a href="#landscape">The OCR Landscape</a>
-3.  <a href="#failures">Where the current OCR APIs fail</a>
+3.  <a href="#failures">Limitations of current OCR APIs </a>
 4.  <a href="#ocr_need"> Should I even consider using OCR then?</a>
 5.  <a href="#good_ocr"> What defines a good OCR product?</a>
 6.  <a href="#docparser"> OCR & Document Scanner</a>
 7. <a href="#pipeline"> Document Scanner Information Extraction Pipeline</a>
 8. <a href="#use_cases">How we use Document Scanner at Box8 ?</a>
+9. <a href="#future">Where to next? </a>
 
 ## 1. <a name="intro" style="text-decoration:underline;"> Introduction</a>
 
@@ -83,9 +85,9 @@ Document Scanner was built to solve the above mentioned problems. We have been a
 
 ## 7.<a name="pipeline" style="text-decoration:underline;"> Document Scanner Pipline</a>
 
- To extract information from an image Document Scanner needs a set of rules that tell it what data points to look for and where to look for in the image document. Using these rules Document Scanner 
+ To extract information from an image Document Scanner needs a set of rules that tell it what data points to look for and where to look for in the image document. These rules generally contain information as to how a particular data point looks like and where one can locate it in the document.
 
-<center><img src="http://drive.google.com/uc?export=view&id=1nVR710WVPZqe38PfyonebaInTUS0sH3r
+<center><img src="http://drive.google.com/uc?export=view&id=1_rkrGFUKEGx7dG0Ys6kIOWrd_xaPo-q4
 " width=80% height="80%"></center>
 
  ## <div style="text-decoration:underline">Benefits of Document Sanner</div>
@@ -95,7 +97,7 @@ Document Scanner was built to solve the above mentioned problems. We have been a
 4. Compatibility with local languages. 
 
 
-## <a name="use_cases" style="text-decoration:underline;">How we use Document Scanner at Box8 ?</a>
+## 8. <a name="use_cases" style="text-decoration:underline;">How we use Document Scanner at Box8 ?</a>
 
 1. ### <div style="text-decoration:underline">Employee Onboarding Using Aadhar</div> 
     Employee Creation requires filling of multiple fields and is quite time taking.
@@ -112,3 +114,13 @@ Document Scanner with Aadhaar helps speed up the process and helps in eliminatin
     We use Document Scanner to extract data from a vendor invoice , like GST info, invoice number ,information of items purchased , the total amount to be paid etc. Further it also helps us to identify if any of the above information is missing or incorrect than the data entered manually and automatically raise disputes.
 <center><img src="https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif" height=50% width=70%></center>
 
+## 9. <a name="future" style="text-decoration:underline;">Where to next?</a>
+
+### <a name="future" style="text-decoration:underline;">Automated intelligent structured field extraction </a>
+
+As we discussed above to get structured information from Document Scanner we use a set of rules that tell it which data points and where to look for them in the document. Now think of a system that can take it to the next level. What if instead of giving rules  we just tell it what data points we want and it looks for them automatically?
+
+
+Sounds interesting right and it might seem simple at first. Not only does it need to understand what a data point is and differentiate data points among each other, it also needs to understand what the user actually wants. Its not so simple now is it. If you have any ideas as to how we can approach this problem dont hesistate to contact us.
+
+Thanks for reading.
