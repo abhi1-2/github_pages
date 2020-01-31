@@ -15,7 +15,7 @@
 5.  <a href="#good_ocr"> What defines a good OCR product?</a>
 6.  <a href="#docparser"> OCR & Document Scanner</a>
 7. <a href="#pipeline"> Document Scanner Information Extraction Pipeline</a>
-8. <a href="#use_cases">How we use Document Scanner at Box8</a>
+8. <a href="#use_cases">How we use Document Scanner at Box8 ?</a>
 
 ## 1. <a name="intro" style="text-decoration:underline;"> Introduction</a>
 
@@ -83,30 +83,32 @@ Document Scanner was built to solve the above mentioned problems. We have been a
 
 ## 7.<a name="pipeline" style="text-decoration:underline;"> Document Scanner Pipline</a>
 
- To extract information from an image Document Scanner needs a set of rules that tell it what data points to look for and where to look for in the image document.
+ To extract information from an image Document Scanner needs a set of rules that tell it what data points to look for and where to look for in the image document. Using these rules Document Scanner 
 
 <center><img src="http://drive.google.com/uc?export=view&id=1nVR710WVPZqe38PfyonebaInTUS0sH3r
 " width=80% height="80%"></center>
 
- ## Benefits of Document Sanner :
+ ## <div style="text-decoration:underline">Benefits of Document Sanner</div>
 1. Document Scanner saves precious time by providing structured usable information which can be used for autofilling forms etc.
 2. Prevents error due to User entry.
 3. Increases overall productivity.
 4. Compatibility with local languages. 
 
 
-## <a name="use_cases" style="text-decoration:underline;">How we use Document Scanner at Box8</a>
+## <a name="use_cases" style="text-decoration:underline;">How we use Document Scanner at Box8 ?</a>
 
-1. ### Employee Onboarding Using Aadhar -
+1. ### <div style="text-decoration:underline">Employee Onboarding Using Aadhar</div> 
     Employee Creation requires filling of multiple fields and is quite time taking.
 	It is also expected that the user input is accurate as fields like Document 
 No (Aadhar No.) need to be unique. Failure to do so means refilling of the fo
 which further increases the time taken to create an employee. Using 
 Document Scanner with Aadhaar helps speed up the process and helps in eliminating error due to user input . 
+<center><img src="http://drive.google.com/uc?export=view&id=1AO1Dw44v4hMBtu1-N74srcS9ecWjRFHi
+" width=80% height="80%"></center>
 
 
-
-2. ### Digitzation of Vendor Invoices
+2. ### <div style="text-decoration:underline">Digitzation of Vendor Invoices</div>
 
     We use Document Scanner to extract data from a vendor invoice , like GST info, invoice number ,information of items purchased , the total amount to be paid etc. Further it also helps us to identify if any of the above information is missing or incorrect than the data entered manually and automatically raise disputes.
 <center><img src="https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif" height=50% width=70%></center>
+
