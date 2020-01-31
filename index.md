@@ -77,17 +77,16 @@ Dcoument Scanner is a data capture solution built to retrieve data from image do
 
 Document Scanner was built to solve the above mentioned problems. We have been able to productize a pipeline for OCR by working with it as not just for character recognition but getting structured usable information.
 
-
- <center><img src="https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif" height=50% width=70%></center>
-
+<center><img src="https://ph-files.imgix.net/a8b55670-2332-43fa-9a36-7e6619308363?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=364.8253968253968&h=221&fit=max"></img></center>
+ 
 
 
 ## 7.<a name="pipeline" style="text-decoration:underline;"> Document Scanner Pipline</a>
 
  To extract information from an image Document Scanner needs a set of rules that tell it what data points to look for and where to look for in the image document.
 
-<center><img src="http://drive.google.com/uc?export=view&id=1Qds2KUbNeOGHiM_AHBobnsjuj-d7IHN0" width=80% height="80%"></center>
-
+<center><img src="http://drive.google.com/uc?export=view&id=1nVR710WVPZqe38PfyonebaInTUS0sH3r
+" width=80% height="80%"></center>
 
  ## Benefits of Document Sanner :
 1. Document Scanner saves precious time by providing structured usable information which can be used for autofilling forms etc.
@@ -110,3 +109,4 @@ Document Scanner with Aadhaar helps speed up the process and helps in eliminatin
 2. ### Digitzation of Vendor Invoices
 
     We use Document Scanner to extract data from a vendor invoice , like GST info, invoice number ,information of items purchased , the total amount to be paid etc. Further it also helps us to identify if any of the above information is missing or incorrect than the data entered manually and automatically raise disputes.
+<center><img src="https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif" height=50% width=70%></center>
