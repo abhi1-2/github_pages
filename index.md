@@ -1,5 +1,5 @@
 
-# <center><span style="text-decoration:underline;">Document Scanner- OCR & Information Extraction </span></center>
+# <center><span style="text-decoration:underline;">Document Scanner(📃🔍)- OCR & Information Extraction </span></center>
  <a style="position:relative; right: -80%;" href="mailto:avishek.sarkar@box8.in?subject= Document Scanner Blog ">by <b>Avishek Sarkar </b></a>
 
 
@@ -121,8 +121,8 @@ Document Scanner with Aadhaar helps speed up the process and helps in eliminatin
 As we discussed above to get structured information from Document Scanner we use a set of rules that tell it which data points and where to look for them in the document. Now think of a system that can take it to the next level. What if instead of giving rules  we just tell it what data points we want and it looks for them automatically?
 
 
-Sounds interesting right and it might seem simple at first, let me break it down for you . Not only does it need to understand what a data point is and differentiate data points among each other, it also needs to understand what the user actually wants. Its not so simple now is it. :stuck_out_tongue:	
+Sounds interesting right and it might seem simple at first, let me break it down for you . Not only does it need to understand what a data point is and differentiate data points among each other, it also needs to understand what the user actually wants. Its not so simple now is it .😛	
  
  If you have any ideas as to how we can approach this problem dont hesistate to contact us. 	
 
-Thanks for reading.:thumbsup:
+Thanks for reading. 👍
