@@ -124,3 +124,4 @@ As we discussed above to get structured information from Document Scanner we use
 Sounds interesting right and it might seem simple at first, let me break it down for you . Not only does it need to understand what a data point is and differentiate data points among each other, it also needs to understand what the user actually wants. Its not so simple now is it. If you have any ideas as to how we can approach this problem dont hesistate to contact us.
 
 Thanks for reading.
+:stuck_out_tongue_closed_eyes:	
