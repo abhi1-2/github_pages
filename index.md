@@ -4,7 +4,6 @@ title:  "Document Scanner(📃🔍)- OCR & Information Extraction"
 date:   2020-01-13 23:22:43 +0530
 categories: jekyll update
 author: Avishek Sarkar
-permalink: /ocr/
 ---
 
 
