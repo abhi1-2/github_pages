@@ -1,11 +1,6 @@
----
-layout: post
-title:  "Document Scanner(📃🔍)- OCR & Information Extraction"
-date:   2020-01-13 23:22:43 +0530
-categories: jekyll update
-author: Avishek Sarkar
----
 
+# <center><span style="text-decoration:underline;">Document Scanner(📃🔍)- OCR & Information Extraction </span></center>
+ <a style="position:relative; right: -80%;" href="mailto:avishek.sarkar@box8.in?subject= Document Scanner Blog ">by <b>Avishek Sarkar </b></a>
 
 
 <center><img src="https://cdn.dribbble.com/users/391380/screenshots/5431062/icon.gif" ></center>
