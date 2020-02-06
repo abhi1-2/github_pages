@@ -1,6 +1,13 @@
-
-# <center><span style="text-decoration:underline;">Document Scanner(📃🔍)- OCR & Information Extraction </span></center>
- <a style="position:relative; right: -80%;" href="mailto:avishek.sarkar@box8.in?subject= Document Scanner Blog ">by <b>Avishek Sarkar </b></a>
+---
+layout: post
+title:  "Document Scanner(📃🔍) - OCR & Information Extraction"
+date:   2020-02-06 23:22:43 +0530
+categories: jekyll update
+author: "Avishek Sarkar"
+permalink: /Document-Scanner-OCR-&-Information-Extraction/
+description: Smart Information Extraction using OCR technology is transforming businesses worldwide. See how we at Box8 have found an innovative approach to take it to the next level.
+imageUrl: https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif
+---
 
 
 <center><img src="https://cdn.dribbble.com/users/391380/screenshots/5431062/icon.gif" ></center>
@@ -87,8 +94,7 @@ Document Scanner was built to solve the above mentioned problems. We have been a
 
  To extract information from an image Document Scanner needs a set of rules that tell it what data points to look for and where to look for in the image document. These rules generally contain information as to how a particular data point looks like and where one can locate it in the document.
 
-<center><img src="http://drive.google.com/uc?export=view&id=1_rkrGFUKEGx7dG0Ys6kIOWrd_xaPo-q4
-" style="width:80%;height:80%"></center>
+<center><img src="http://drive.google.com/uc?export=view&id=1_rkrGFUKEGx7dG0Ys6kIOWrd_xaPo-q4" width=80% height="80%"></center>
 
  ## <div style="text-decoration:underline">Benefits of Document Sanner</div>
 1. Document Scanner saves precious time by providing structured usable information which can be used for autofilling forms etc.
@@ -99,20 +105,23 @@ Document Scanner was built to solve the above mentioned problems. We have been a
 
 ## 8. <a name="use_cases" style="text-decoration:underline;">How we use Document Scanner at Box8 ?</a>
 
-1. ### <div style="text-decoration:underline">Employee Onboarding Using Aadhar</div> 
+
+<div style= "text-decoration:underline"> Employee Onboarding Using Aadhar </div > 
+
     Employee Creation requires filling of multiple fields and is quite time taking.
-	It is also expected that the user input is accurate as fields like Document 
+  It is also expected that the user input is accurate as fields like Document 
 No (Aadhar No.) need to be unique. Failure to do so means refilling of the form
 which further increases the time taken to create an employee. Using 
 Document Scanner with Aadhaar helps speed up the process and helps in eliminating error due to user input . 
-<center><img src="http://drive.google.com/uc?export=view&id=1AO1Dw44v4hMBtu1-N74srcS9ecWjRFHi
-" width=80% height="80%"></center>
+
+<center><img src= "http://drive.google.com/uc?export=view&id=1AO1Dw44v4hMBtu1-N74srcS9ecWjRFHi" width="80%" height="80%" > </center>
 
 
-2. ### <div style="text-decoration:underline">Digitzation of Vendor Invoices</div>
+ <div style="text-decoration:underline">Digitzation of Vendor Invoices </div>
 
     We use Document Scanner to extract data from a vendor invoice , like GST info, invoice number ,information of items purchased , the total amount to be paid etc. Further it also helps us to identify if any of the above information is missing or incorrect than the data entered manually and automatically raise disputes.
-<center><img src="https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif" height=50% width=70%></center>
+
+<center><img src="https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif" height="50%" width="70%" ></center>
 
 ## 9. <a name="future" style="text-decoration:underline;">Where to next?</a>
 
@@ -121,8 +130,8 @@ Document Scanner with Aadhaar helps speed up the process and helps in eliminatin
 As we discussed above to get structured information from Document Scanner we use a set of rules that tell it which data points and where to look for them in the document. Now think of a system that can take it to the next level. What if instead of giving rules  we just tell it what data points we want and it looks for them automatically?
 
 
-Sounds interesting right and it might seem simple at first, let me break it down for you . Not only does it need to understand what a data point is and differentiate data points among each other, it also needs to understand what the user actually wants. Its not so simple now is it .😛	
+Sounds interesting right and it might seem simple at first, let me break it down for you . Not only does it need to understand what a data point is and differentiate data points among each other, it also needs to understand what the user actually wants. Its not so simple now is it .😛  
  
- If you have any ideas as to how we can approach this problem dont hesistate to contact us. <a href="mailto:avishek.sarkar@box8.in?subject= Document Scanner Blog "><b>📧</b></a>	
+ If you have any ideas as to how we can approach this problem dont hesistate to contact us. <a href="mailto:avishek.sarkar@box8.in?subject= Document Scanner Blog "><b>📧</b></a>  
 
 Thanks for reading. 👍
