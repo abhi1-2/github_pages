@@ -12,7 +12,7 @@ imageUrl: https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gi
 
 <center><img src="https://cdn.dribbble.com/users/391380/screenshots/5431062/icon.gif" ></center>
 
-## **<span style="text-decoration:underline;">CONTENT</span>**
+### **<span style="text-decoration:underline;">CONTENT</span>**
 
 
 
@@ -26,7 +26,7 @@ imageUrl: https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gi
 8. <a href="#use_cases">How we use Document Scanner at Box8 ?</a>
 9. <a href="#future">Where to next? </a>
 
-## 1. <a name="intro" style="text-decoration:underline;"> Introduction</a>
+### 1. <a name="intro" style="text-decoration:underline;"> Introduction</a>
 
 Simply defined, OCR is a set of computer vision tasks that convert scanned documents and images into machine readable text. It takes images of documents, invoices and receipts, finds text in it and converts it into a format that machines can better process. You want to read information off of ID cards or read numbers on a bank cheque, OCR is what will drive your software.
 
@@ -36,7 +36,7 @@ Simply defined, OCR is a set of computer vision tasks that convert scanned docum
    <center><img src = "https://nanonets.com/blog/content/images/2019/08/clearcheck21_micr_reader-568141.jpg " style="width:70%"></center>
    
 
-## 2. **<a name="landscape" style="text-decoration:underline;"> The OCR landscape</a>**
+### 2. **<a name="landscape" style="text-decoration:underline;"> The OCR landscape</a>**
 
 The APIs provided by many are limited to solving a very limited set of use cases and are averse to customizations. 
 
@@ -47,7 +47,7 @@ More often than not, a business planning to use OCR technology needs an in-house
 
 
 
-## 3. **<a name="failures" style="text-decoration:underline;">Limitations of current OCR APIs </a>**
+### 3. **<a name="failures" style="text-decoration:underline;">Limitations of current OCR APIs </a>**
 1. Require a considerable amount of post-processing
 2. Work well only in specific constraints 
 3. Tilted text in images
@@ -56,7 +56,7 @@ More often than not, a business planning to use OCR technology needs an in-house
 
 
 
-## 4. **<a name="ocr_need" style="text-decoration:underline;">Should I even consider using OCR then?</a>**
+### 4. **<a name="ocr_need" style="text-decoration:underline;">Should I even consider using OCR then?</a>**
 Short answer is <b>Yes</b>.
 
 Anywhere there is a lot of paperwork or manual effort involved, OCR technology can enable image and text based process automation. Being able to digitize information in an accurate way can help business processes become smoother, easier and a lot more reliable along with reducing the manpower required to execute these processes. For big organizations who have to deal with a lot of forms, invoices, receipts, etc, being able to digitize all the information, storing and structuring the data, making it searchable and editable is a step closer to a paper-free world.
@@ -74,14 +74,14 @@ Think about the following use cases -
 
 5. <span style="text-decoration:underline;">Invoices</span> - automating reading bills, invoices and receipts, extracting products, prices, date-time data, company/service name for retail and logistics industry.
 
-## 5. <a name="good_ocr" style="text-decoration:underline;">What defines a good OCR product?</a>
+### 5. <a name="good_ocr" style="text-decoration:underline;">What defines a good OCR product?</a>
 
  1. How it deals with the images coming in 
  2. How it performs in real-world problems
  3. How it uses the machine-readable text
 
 
-## 6. <a name="docparser" style="text-decoration:underline;">Document Scanner & OCR</a>
+### 6. <a name="docparser" style="text-decoration:underline;">Document Scanner & OCR</a>
 Dcoument Scanner is a data capture solution built to retrieve data from image documents. It takes an image and extracts the data required in near real-time.
 
 Document Scanner was built to solve the above mentioned problems. We have been able to productize a pipeline for OCR by working with it as not just for character recognition but getting structured usable information.
@@ -90,23 +90,24 @@ Document Scanner was built to solve the above mentioned problems. We have been a
  
 
 
-## 7.<a name="pipeline" style="text-decoration:underline;"> Document Scanner Pipline</a>
+### 7.<a name="pipeline" style="text-decoration:underline;"> Document Scanner Pipline</a>
 
- To extract information from an image Document Scanner needs a set of rules that tell it what data points to look for and where to look for in the image document. These rules generally contain information as to how a particular data point looks like and where one can locate it in the document.
+  To extract information from an image Document Scanner needs a set of rules that tell it what data points to look for and where to look for in the image document. These rules generally contain information as to how a particular data point looks like and where one can locate it in the document.
 
-<center><img src="http://drive.google.com/uc?export=view&id=1_rkrGFUKEGx7dG0Ys6kIOWrd_xaPo-q4" width=80% height="80%"></center>
+ <center><img src="http://drive.google.com/uc?export=view&id=1_rkrGFUKEGx7dG0Ys6kIOWrd_xaPo-q4" width=80% height="80%"></center>
 
- ## <div style="text-decoration:underline">Benefits of Document Sanner</div>
+ ### <div style="text-decoration:underline">Benefits of Document Sanner</div>
 1. Document Scanner saves precious time by providing structured usable information which can be used for autofilling forms etc.
 2. Prevents error due to User entry.
 3. Increases overall productivity.
 4. Compatibility with local languages. 
 
 
-## 8. <a name="use_cases" style="text-decoration:underline;">How we use Document Scanner at Box8 ?</a>
+### 8. <a name="use_cases" style="text-decoration:underline;">How we use Document Scanner at Box8 ?</a>
 
 
-<div style= "text-decoration:underline"> Employee Onboarding Using Aadhar </div > 
+<a style= "text-decoration:underline"> Employee Onboarding Using Aadhar </a > 
+
 
 Employee Creation requires filling of multiple fields and is quite time taking.
 It is also expected that the user input is accurate as fields like Document 
@@ -117,15 +118,16 @@ Document Scanner with Aadhaar helps speed up the process and helps in eliminatin
 <center><img src= "http://drive.google.com/uc?export=view&id=1AO1Dw44v4hMBtu1-N74srcS9ecWjRFHi" width="80%" height="80%" > </center>
 
 
- <div style="text-decoration:underline">Digitzation of Vendor Invoices </div>
+ <a style="text-decoration:underline">Digitzation of Vendor Invoices </a>
 
-We use Document Scanner to extract data from a vendor invoice , like GST info, invoice number ,information of items purchased , the total amount to be paid etc. Further it also helps us to identify if any of the above information is missing or incorrect than the data entered manually and automatically raise disputes.
+
+   We use Document Scanner to extract data from a vendor invoice , like GST info, invoice number ,information of items purchased , the total amount to be paid etc. Further it also helps us to identify if any of the above information is missing or incorrect than the data entered manually and automatically raise disputes.
 
 <center><img src="https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif" height="50%" width="70%" ></center>
 
-## 9. <a name="future" style="text-decoration:underline;">Where to next?</a>
+### 9. <a name="future" style="text-decoration:underline;">Where to next?</a>
 
-### <a name="future" style="text-decoration:underline;">Automated intelligent structured field extraction </a>
+#### <a name="future" style="text-decoration:underline;">Automated intelligent structured field extraction </a>
 
 As we discussed above to get structured information from Document Scanner we use a set of rules that tell it which data points and where to look for them in the document. Now think of a system that can take it to the next level. What if instead of giving rules  we just tell it what data points we want and it looks for them automatically?
 
