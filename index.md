@@ -108,8 +108,8 @@ Document Scanner was built to solve the above mentioned problems. We have been a
 
 <div style= "text-decoration:underline"> Employee Onboarding Using Aadhar </div > 
 
-    Employee Creation requires filling of multiple fields and is quite time taking.
-  It is also expected that the user input is accurate as fields like Document 
+Employee Creation requires filling of multiple fields and is quite time taking.
+It is also expected that the user input is accurate as fields like Document 
 No (Aadhar No.) need to be unique. Failure to do so means refilling of the form
 which further increases the time taken to create an employee. Using 
 Document Scanner with Aadhaar helps speed up the process and helps in eliminating error due to user input . 
@@ -119,7 +119,7 @@ Document Scanner with Aadhaar helps speed up the process and helps in eliminatin
 
  <div style="text-decoration:underline">Digitzation of Vendor Invoices </div>
 
-    We use Document Scanner to extract data from a vendor invoice , like GST info, invoice number ,information of items purchased , the total amount to be paid etc. Further it also helps us to identify if any of the above information is missing or incorrect than the data entered manually and automatically raise disputes.
+We use Document Scanner to extract data from a vendor invoice , like GST info, invoice number ,information of items purchased , the total amount to be paid etc. Further it also helps us to identify if any of the above information is missing or incorrect than the data entered manually and automatically raise disputes.
 
 <center><img src="https://nanonets.com/blog/content/images/2019/08/OCR_illustration-2.gif" height="50%" width="70%" ></center>
 
