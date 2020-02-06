@@ -87,7 +87,8 @@ Document Scanner was built to solve the above mentioned problems. We have been a
 
  To extract information from an image Document Scanner needs a set of rules that tell it what data points to look for and where to look for in the image document. These rules generally contain information as to how a particular data point looks like and where one can locate it in the document.
 
-![ScreenShot][http://drive.google.com/uc?export=view&id=1_rkrGFUKEGx7dG0Ys6kIOWrd_xaPo-q4]
+<center><img src="http://drive.google.com/uc?export=view&id=1_rkrGFUKEGx7dG0Ys6kIOWrd_xaPo-q4
+" style="width:80%;height:80%"></center>
 
  ## <div style="text-decoration:underline">Benefits of Document Sanner</div>
 1. Document Scanner saves precious time by providing structured usable information which can be used for autofilling forms etc.
